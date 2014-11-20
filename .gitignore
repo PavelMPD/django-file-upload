@@ -21,3 +21,15 @@
 /dfp_app/upload_file/__pycache__/urls.cpython-34.pyc
 /dfp_app/upload_file/__pycache__/views.cpython-34.pyc
 /dfp_app/dfp_app/__pycache__/wsgi.cpython-34.pyc
+/dfp_app/upload_file/migrations/0001_initial.pyc
+/dfp_app/dfp_app/__init__.pyc
+/dfp_app/upload_file/__init__.pyc
+/dfp_app/upload_file/migrations/__init__.pyc
+/dfp_app/upload_file/admin.pyc
+/dfp_app/upload_file/forms.pyc
+/dfp_app/upload_file/models.pyc
+/dfp_app/dfp_app/settings.pyc
+/dfp_app/dfp_app/urls.pyc
+/dfp_app/upload_file/urls.pyc
+/dfp_app/upload_file/views.pyc
+/dfp_app/dfp_app/wsgi.pyc
